@@ -8,8 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A037CDCC28320B5400A43B35 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = A037CDCB28320B5400A43B35 /* main.swift */; };
-		A037CDD32833AF0600A43B35 /* day2.swift in Sources */ = {isa = PBXBuildFile; fileRef = A037CDD22833AF0600A43B35 /* day2.swift */; };
-		A037CDD52833AF1900A43B35 /* day1.swift in Sources */ = {isa = PBXBuildFile; fileRef = A037CDD42833AF1900A43B35 /* day1.swift */; };
+		A037CDD32833AF0600A43B35 /* BOJ_2588.swift in Sources */ = {isa = PBXBuildFile; fileRef = A037CDD22833AF0600A43B35 /* BOJ_2588.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,8 +26,8 @@
 /* Begin PBXFileReference section */
 		A037CDC828320B5400A43B35 /* DSA */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DSA; sourceTree = BUILT_PRODUCTS_DIR; };
 		A037CDCB28320B5400A43B35 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
-		A037CDD22833AF0600A43B35 /* day2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day2.swift; sourceTree = "<group>"; };
-		A037CDD42833AF1900A43B35 /* day1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = day1.swift; sourceTree = "<group>"; };
+		A037CDD22833AF0600A43B35 /* BOJ_2588.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_2588.swift; sourceTree = "<group>"; };
+		A037CDD42833AF1900A43B35 /* BOJ_1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BOJ_1000.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +61,8 @@
 			isa = PBXGroup;
 			children = (
 				A037CDCB28320B5400A43B35 /* main.swift */,
-				A037CDD42833AF1900A43B35 /* day1.swift */,
-				A037CDD22833AF0600A43B35 /* day2.swift */,
+				A037CDD42833AF1900A43B35 /* BOJ_1000.swift */,
+				A037CDD22833AF0600A43B35 /* BOJ_2588.swift */,
 			);
 			path = DSA;
 			sourceTree = "<group>";
@@ -127,8 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A037CDCC28320B5400A43B35 /* main.swift in Sources */,
-				A037CDD52833AF1900A43B35 /* day1.swift in Sources */,
-				A037CDD32833AF0600A43B35 /* day2.swift in Sources */,
+				A037CDD32833AF0600A43B35 /* BOJ_2588.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
